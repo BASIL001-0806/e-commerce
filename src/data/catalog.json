@@ -1,0 +1,424 @@
+{
+  "products": [
+    {
+      "slug": "boat-rockerz-550-anc",
+      "name": "boAt Rockerz 550 ANC",
+      "brand": "boAt",
+      "tagline": "Over-ear wireless headphones with 45 dB hybrid ANC",
+      "category": "Audio",
+      "priceCents": 199900,
+      "compareAtCents": 499000,
+      "rating": 4.3,
+      "reviews": 48213,
+      "stock": 320,
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800&h=800&fit=crop",
+      "badge": "Bestseller",
+      "accent": "blue",
+      "featured": true,
+      "warranty": "1 year brand warranty (India)",
+      "description": "40 mm dynamic drivers, 45 dB hybrid noise cancellation and a 60-hour battery — the Rockerz 550 ANC is boAt's most returned-to workhorse. Dual-device Bluetooth 5.3 with low-latency BEAST mode for BGMI and a plush memory-foam headband that survives a full commute.",
+      "features": [
+        "45 dB hybrid ANC with transparency mode",
+        "60 hours playback, 10 min charge = 8 hours",
+        "Dual-device pairing + BEAST low-latency mode",
+        "IPX4 splash resistant, foldable frame"
+      ],
+      "specs": [
+        { "label": "Driver", "value": "40 mm HD dynamic" },
+        { "label": "Battery", "value": "60 hours (ANC off) / 42 hours (ANC on)" },
+        { "label": "Bluetooth", "value": "v5.3, dual device" },
+        { "label": "Charging", "value": "USB Type-C" },
+        { "label": "Weight", "value": "232 g" },
+        { "label": "Box contents", "value": "Headphones, Type-C cable, 3.5 mm AUX, warranty card" }
+      ],
+      "colors": [
+        { "name": "Robust Black", "hex": "#1b1c20" },
+        { "name": "Ocean Blue", "hex": "#2563eb" }
+      ]
+    },
+    {
+      "slug": "boat-airdopes-161",
+      "name": "boAt Airdopes 161",
+      "brand": "boAt",
+      "tagline": "TWS earbuds with 8H playback and ENx mic",
+      "category": "Audio",
+      "priceCents": 119900,
+      "compareAtCents": 299000,
+      "rating": 4.2,
+      "reviews": 112540,
+      "stock": 850,
+      "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=800&h=800&fit=crop",
+      "badge": "Deal of the Day",
+      "accent": "violet",
+      "featured": true,
+      "warranty": "1 year manufacturer warranty",
+      "description": "The everyday Airdopes: 13 mm bass drivers, ENx environmental noise cancellation for calls on a busy street, IPX4 sweat resistance and a case that adds 36 hours. BatchSync pairing connects in under two seconds — the reason this is the most-ordered SKU on Shop Cart.",
+      "features": [
+        "36 hours total with the charging case",
+        "ENx noise reduction on calls",
+        "Low-latency 60 ms game mode",
+        "IPX4 sweat & splash proof"
+      ],
+      "specs": [
+        { "label": "Driver", "value": "13 mm AVA prompt bass" },
+        { "label": "Battery", "value": "8 hours buds / 36 hours total" },
+        { "label": "Bluetooth", "value": "v5.3 with BatchSync" },
+        { "label": "Charging", "value": "USB Type-C, 1.5 hours full" },
+        { "label": "Weight", "value": "4.1 g per bud" },
+        { "label": "Box contents", "value": "Earbuds, case, Type-C cable, 3 sizes of tips" }
+      ],
+      "colors": [
+        { "name": "Active Black", "hex": "#15161a" },
+        { "name": "Atomic White", "hex": "#eef0f3" },
+        { "name": "Sky Blue", "hex": "#60a5fa" }
+      ]
+    },
+    {
+      "slug": "portronics-roar-4-plus",
+      "name": "Portronics Roar 4 Plus",
+      "brand": "Portronics",
+      "tagline": "24 W portable Bluetooth speaker with dual passive radiators",
+      "category": "Audio",
+      "priceCents": 239900,
+      "compareAtCents": 399900,
+      "rating": 4.4,
+      "reviews": 9412,
+      "stock": 210,
+      "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=800&h=800&fit=crop",
+      "badge": null,
+      "accent": "blue",
+      "featured": false,
+      "warranty": "1 year Portronics India warranty",
+      "description": "Two 48 mm drivers, dual passive radiators that visibly move, and 12 hours of runtime at 60% volume. TWS-pair two Roar 4 units for stereo, take the IPX7 body to the pool, and charge it from the same Type-C cable as your phone.",
+      "features": [
+        "24 W RMS with dual passive radiators",
+        "IPX7 waterproof body",
+        "TWS pairing for true stereo",
+        "12 hours playback, USB-C charging"
+      ],
+      "specs": [
+        { "label": "Output", "value": "24 W RMS" },
+        { "label": "Drivers", "value": "2 x 48 mm + 2 passive radiators" },
+        { "label": "Battery", "value": "3,600 mAh, 12 hours" },
+        { "label": "Water rating", "value": "IPX7" },
+        { "label": "Inputs", "value": "Bluetooth 5.3, AUX, USB-C" },
+        { "label": "Weight", "value": "640 g" }
+      ],
+      "colors": [
+        { "name": "Graphite", "hex": "#24262b" },
+        { "name": "Midnight Blue", "hex": "#1e3a8a" }
+      ]
+    },
+    {
+      "slug": "noise-colorfit-pro-5",
+      "name": "Noise ColorFit Pro 5 Alpha",
+      "brand": "Noise",
+      "tagline": "1.85\" AMOLED smartwatch with BT calling and GPS",
+      "category": "Wearables",
+      "priceCents": 249900,
+      "compareAtCents": 699900,
+      "rating": 4.1,
+      "reviews": 62118,
+      "stock": 430,
+      "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=800&h=800&fit=crop",
+      "badge": "Limited time price",
+      "accent": "emerald",
+      "featured": true,
+      "warranty": "1 year replacement warranty",
+      "description": "A 1.85-inch AMOLED at 1,000 nits that stays readable under Indian afternoon sun, Bluetooth calling with 200 contacts, built-in sports GPS, SpO2 and 125+ workout modes. Seven days of battery in normal use, 400+ watch faces, and IP68 for monsoon commutes.",
+      "features": [
+        "1.85\" AMOLED, 1,000 nits, always-on",
+        "Bluetooth calling with dial pad",
+        "Built-in GPS + 125 sports modes",
+        "7-day typical battery, magnetic fast charge"
+      ],
+      "specs": [
+        { "label": "Display", "value": "1.85\" AMOLED, 390 x 450 px" },
+        { "label": "Battery", "value": "300 mAh, up to 7 days" },
+        { "label": "Sensors", "value": "HR, SpO2, sleep, accelerometer" },
+        { "label": "Water rating", "value": "IP68" },
+        { "label": "App", "value": "Noise Fit Pro (Android & iOS)" },
+        { "label": "Box contents", "value": "Watch, strap, magnetic charger, guide" }
+      ],
+      "colors": [
+        { "name": "Jet Black", "hex": "#17181c" },
+        { "name": "Steel Silver", "hex": "#b9bcc4" },
+        { "name": "Midnight Green", "hex": "#065f46" }
+      ]
+    },
+    {
+      "slug": "redmi-note-14-pro-5g",
+      "name": "Redmi Note 14 Pro 5G",
+      "brand": "Redmi",
+      "tagline": "108 MP OIS camera, Snapdragon 7s Gen 3, 5,110 mAh",
+      "category": "Mobile",
+      "priceCents": 2699900,
+      "compareAtCents": 2999900,
+      "rating": 4.5,
+      "reviews": 104652,
+      "stock": 120,
+      "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=800&h=800&fit=crop",
+      "badge": "Most wanted",
+      "accent": "blue",
+      "featured": true,
+      "warranty": "1 year Mi India warranty + 6 months on display",
+      "description": "The Note franchise at its most complete: a 108 MP main sensor with optical stabilisation, a 120 Hz AMOLED that peaks at 3,000 nits, IP68 dust-and-water sealing and 45 W turbo charging. India-launched HyperOS 2 with four years of security updates.",
+      "features": [
+        "6.67\" 120 Hz CrystalRes AMOLED, 3,000 nits",
+        "108 MP OIS main + 8 MP ultrawide + 2 MP macro",
+        "Snapdragon 7s Gen 3 with 8 GB LPDDR4X",
+        "5,110 mAh battery, 45 W turbo charge"
+      ],
+      "specs": [
+        { "label": "Display", "value": "6.67\" AMOLED, 2712 x 1220, 120 Hz" },
+        { "label": "Processor", "value": "Snapdragon 7s Gen 3, octa-core" },
+        { "label": "Memory / storage", "value": "8 GB / 256 GB UFS 2.2" },
+        { "label": "Camera", "value": "108 MP OIS + 8 MP + 2 MP | 20 MP front" },
+        { "label": "Battery", "value": "5,110 mAh, 45 W wired" },
+        { "label": "Network", "value": "5G SA/NSA, dual SIM, Wi-Fi 6" }
+      ],
+      "colors": [
+        { "name": "Carbon Black", "hex": "#1a1b1f" },
+        { "name": "Aurora Purple", "hex": "#8b5cf6" },
+        { "name": "Tidewave Blue", "hex": "#1d4ed8" }
+      ]
+    },
+    {
+      "slug": "acer-aspire-lite-i5",
+      "name": "Acer Aspire Lite i5",
+      "brand": "Acer",
+      "tagline": "12th Gen Core i5 thin-and-light with 16 GB RAM",
+      "category": "Computing",
+      "priceCents": 4499000,
+      "compareAtCents": 5899000,
+      "rating": 4.4,
+      "reviews": 14288,
+      "stock": 42,
+      "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800&h=800&fit=crop",
+      "badge": null,
+      "accent": "blue",
+      "featured": false,
+      "warranty": "1 year onsite warranty + 2 years on battery/adapter",
+      "description": "A 12th-gen Intel Core i5-12450H, 16 GB of DDR4 and a 512 GB NVMe SSD in a 1.7 kg chassis with a backlit keyboard. The 14.1-inch Full HD IPS panel covers 90% sRGB — enough for editing college fests and client cuts on the local train.",
+      "features": [
+        "Intel Core i5-12450H, up to 4.4 GHz",
+        "16 GB DDR4 (upgradeable) + 512 GB NVMe",
+        "14.1\" Full HD IPS, anti-glare",
+        "Wi-Fi 6, USB-C with DP, backlit keyboard"
+      ],
+      "specs": [
+        { "label": "Display", "value": "14.1\" FHD IPS, 1920 x 1080" },
+        { "label": "Processor", "value": "12th Gen Intel Core i5-12450H" },
+        { "label": "Graphics", "value": "Intel UHD (optional MX550)" },
+        { "label": "Memory", "value": "16 GB DDR4, 2 x SO-DIMM" },
+        { "label": "Storage", "value": "512 GB NVMe Gen4" },
+        { "label": "Weight", "value": "1.7 kg, 65 W adapter" }
+      ],
+      "colors": [
+        { "name": "Steel Grey", "hex": "#3f4551" },
+        { "name": "Pure Silver", "hex": "#cbd0d8" }
+      ]
+    },
+    {
+      "slug": "zebronics-fusion-striker-pro",
+      "name": "Zebronics Fusion Striker Pro",
+      "brand": "Zebronics",
+      "tagline": "Outemu blue switch mechanical keyboard with RGB",
+      "category": "Computing",
+      "priceCents": 219900,
+      "compareAtCents": 399500,
+      "rating": 4.2,
+      "reviews": 23910,
+      "stock": 260,
+      "image": "https://images.unsplash.com/photo-1511467687858-23d96c32e4ae?w=800&h=800&fit=crop",
+      "badge": null,
+      "accent": "rose",
+      "featured": false,
+      "warranty": "1 year Zebronics warranty",
+      "description": "Full-size 104-key layout with hot-swappable Outemu blue switches, double-shot keycaps that survive a cyber-café decade, per-key RGB with 18 modes and a dedicated media roller. Wired 1 ms polling, no software bloat, works out of the box on Windows and Linux.",
+      "features": [
+        "Hot-swappable Outemu blue clicky switches",
+        "Per-key RGB with 18 preset modes",
+        "Double-shot keys, spill-resistant frame",
+        "1 ms polling, detachable USB-C cable"
+      ],
+      "specs": [
+        { "label": "Layout", "value": "104 keys, full size (IN)" },
+        { "label": "Switches", "value": "Outemu blue, 50 million presses" },
+        { "label": "Polling", "value": "1,000 Hz wired" },
+        { "label": "Lighting", "value": "16.8 M colours, per key" },
+        { "label": "Cable", "value": "Detachable braided USB-C" },
+        { "label": "Weight", "value": "1.06 kg" }
+      ],
+      "colors": [
+        { "name": "Black / Blue switch", "hex": "#17181c" },
+        { "name": "White / Red switch", "hex": "#e9edf2" }
+      ]
+    },
+    {
+      "slug": "redgear-vector-wireless",
+      "name": "Redgear Vector Wireless",
+      "brand": "Redgear",
+      "tagline": "Hall-effect wireless gamepad for PC, Android and TV",
+      "category": "Gaming",
+      "priceCents": 229900,
+      "compareAtCents": 349900,
+      "rating": 4.0,
+      "reviews": 7320,
+      "stock": 180,
+      "image": "https://images.unsplash.com/photo-1621259182978-fbf93132d53d?w=800&h=800&fit=crop",
+      "badge": "Combo offer",
+      "accent": "blue",
+      "featured": false,
+      "warranty": "1 year Redgear India warranty",
+      "description": "Redgear's answer to stick drift: hall-effect thumbsticks, 400 Hz polling over the 2.4 GHz dongle, a 1,000 mAh cell that lasts 22 hours, and mapping profiles that save to the pad itself. Plays BGMI, Steam and NVIDIA GRID without a driver install.",
+      "features": [
+        "Hall-effect sticks — drift resistant",
+        "2.4 GHz dongle, Bluetooth 5.0 and USB-C wired",
+        "22 hours play per charge",
+        "Turbo, remappable back paddles, 4 profiles"
+      ],
+      "specs": [
+        { "label": "Sticks", "value": "Hall-effect, 3,000-hour rated" },
+        { "label": "Latency", "value": "2.5 ms on 2.4 GHz" },
+        { "label": "Battery", "value": "1,000 mAh, 22 hours" },
+        { "label": "Platforms", "value": "Windows, Android, TV, Raspberry Pi" },
+        { "label": "Rumble", "value": "Dual asymmetric motors" },
+        { "label": "Weight", "value": "236 g" }
+      ],
+      "colors": [
+        { "name": "Stealth Black", "hex": "#16171b" },
+        { "name": "Arctic White", "hex": "#e8eaee" }
+      ]
+    },
+    {
+      "slug": "ptron-vrity-lite",
+      "name": "pTron Vrity Lite",
+      "brand": "pTron",
+      "tagline": "VR headset for phones with adjustable focus",
+      "category": "Gaming",
+      "priceCents": 189900,
+      "compareAtCents": 399900,
+      "rating": 3.9,
+      "reviews": 4128,
+      "stock": 95,
+      "image": "https://images.unsplash.com/photo-1635079128153-2b509e2e6e0a?w=800&h=800&fit=crop",
+      "badge": null,
+      "accent": "violet",
+      "featured": false,
+      "warranty": "6 months pTron service warranty",
+      "description": "Slot in any 4.7–6.5-inch phone and the 45 mm optical lenses give a 110° field of view with myopia adjustment from -6D. Cloud-foam face padding, a head strap that does not crush your hair, and free access to pTron's VR app library with 2,000+ 360° videos.",
+      "features": [
+        "Fits 4.7\" to 6.5\" phones",
+        "-6D myopia adjustment on both lenses",
+        "110° field of view, 45 mm optical glass",
+        "Cloud-foam padding, adjustable head strap"
+      ],
+      "specs": [
+        { "label": "Lenses", "value": "45 mm optical glass, anti-blue-light" },
+        { "label": "FOV", "value": "110 degrees" },
+        { "label": "Phone support", "value": "Spring clamp, 4.7–6.5 inch" },
+        { "label": "Audio", "value": "Built-in stereo speakers + 3.5 mm" },
+        { "label": "Weight", "value": "352 g" },
+        { "label": "Box contents", "value": "Headset, strap, cleaning cloth, VR remote" }
+      ],
+      "colors": [
+        { "name": "Graphite", "hex": "#2a2c33" },
+        { "name": "Chalk", "hex": "#eceef1" }
+      ]
+    },
+    {
+      "slug": "zebronics-zeb-fame-pro",
+      "name": "Zebronics Zeb-Fame Pro",
+      "bundle": "Free 16 GB card",
+      "brand": "Zebronics",
+      "tagline": "16 MP digital camera with 16x interpolation and 2.7\" LCD",
+      "category": "Photography",
+      "priceCents": 949900,
+      "compareAtCents": 1399900,
+      "rating": 4.0,
+      "reviews": 2145,
+      "stock": 46,
+      "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=800&h=800&fit=crop",
+      "badge": "Value pick",
+      "accent": "amber",
+      "featured": false,
+      "warranty": "1 year Zebronics warranty",
+      "description": "A genuinely affordable camera for college fests, shop documentation and YouTube starting out: 16 MP sensor, 16x digital interpolation, 1080p video, face detection and a 2.7-inch LCD that tilts for self-framing. Runs two hours on a rechargeable pack.",
+      "features": [
+        "16 MP sensor, 1080p 30 fps video",
+        "16x interpolation zoom with image stabilise",
+        "2.7\" tilt LCD + optical viewfinder",
+        "Supports microSD up to 32 GB (class 10)"
+      ],
+      "specs": [
+        { "label": "Sensor", "value": "16 MP CMOS, 1/2.3\"" },
+        { "label": "Lens", "value": "28 mm equivalent, f/3.1–6.5" },
+        { "label": "Video", "value": "1920 x 1080 @ 30 fps" },
+        { "label": "Display", "value": "2.7\" LCD, 230K dots" },
+        { "label": "Power", "value": "Rechargeable 1,050 mAh pack" },
+        { "label": "Weight", "value": "286 g with battery" }
+      ],
+      "colors": [
+        { "name": "Classic Black", "hex": "#1a1a1e" },
+        { "name": "Retro Silver", "hex": "#b7bac1" }
+      ]
+    }
+  ],
+  "comingSoon": [
+    {
+      "name": "Fire-Boltt Phoenix Plus",
+      "note": "BT calling, 1.85\" display, 7-day battery — expected at ₹1,499",
+      "eta": "This month"
+    },
+    {
+      "name": "Ambrane NexCharge 100W GaN",
+      "note": "Three-port 20,000 mAh bank with laptop passthrough — expected at ₹2,799",
+      "eta": "Next month"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Rhea Mendonça",
+      "handle": "@rhea.builds",
+      "city": "Bengaluru",
+      "text": "Ordered the Rockerz at 11 pm, delivered by 10 am next day in Koramangala. ANC is genuinely good for the price — the metro announcement system disappears.",
+      "product": "boAt Rockerz 550 ANC"
+    },
+    {
+      "name": "Aditya Rakesh",
+      "handle": "@aditya_r",
+      "city": "Pune",
+      "text": "Airdopes survived a monsoon commute and four hours of BGMI. The case is small enough to forget in a jeans pocket.",
+      "product": "boAt Airdopes 161"
+    },
+    {
+      "name": "Sneha Iyer",
+      "handle": "@snehashoots",
+      "city": "Chennai",
+      "text": "Bought the Zeb-Fame for my shop's Instagram. Daylight shots are clean and the tilt LCD makes self-recording easy. GST invoice arrived the same hour.",
+      "product": "Zebronics Zeb-Fame Pro"
+    },
+    {
+      "name": "Mohd Faizan",
+      "handle": "@faizan.plays",
+      "city": "Hyderabad",
+      "text": "Redgear finally made a pad that does not drift. Used it on a TV with GeForce Now for three weeks — zero stick issues, charging is Type-C too.",
+      "product": "Redgear Vector Wireless"
+    },
+    {
+      "name": "Kavya Nair",
+      "handle": "@kavyanair",
+      "city": "Kochi",
+      "text": "The Noise watch display is readable at noon on the beach and I got seven days before charging. Call audio quality over BT is better than expected.",
+      "product": "Noise ColorFit Pro 5 Alpha"
+    },
+    {
+      "name": "Harsh Vardhan",
+      "handle": "@harshv",
+      "city": "Jaipur",
+      "text": "No-cost EMI on the Acer was the reason I bought. Body is light, keyboard feels nice for long typing, and it handles Premiere 1080p fine.",
+      "product": "Acer Aspire Lite i5"
+    }
+  ]
+}
